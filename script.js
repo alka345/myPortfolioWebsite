@@ -22,8 +22,7 @@ function closemenu (){
     sidemenu.style.right="-200px";
 }
 
-
-
+// -------------------------------------draggable cards ------------------------------------
 
 // --------------------------------Google form------------------------------------
   const scriptURL = 'https://script.google.com/macros/s/AKfycbxQzJgDVpFPrXKZtlW6BqLkambCKlqCJ7Hg8y32rd6aN_9BOD0mYlN-wI7bwxb27fYMEg/exec'
