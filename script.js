@@ -40,3 +40,9 @@ const msg=document.getElementById('msg')
       })
       .catch(error => console.error('Error!', error.message))
   })
+// ---------------------text auto type effect in nav bar------------
+let typed = new Typed('.auto-type',{strings:["Hey there !"],
+typeSpeed:150,
+backSpeed:150,
+loop:true
+})
